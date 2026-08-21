@@ -1,0 +1,5 @@
+Model,R2 Score,CV R2 (mean),RMSE (log),RMSE ($),MAE ($)
+Gradient Boosting,0.8977,0.8892,0.1382,28825.0,16155.0
+Random Forest,0.8873,0.8688,0.145,29409.0,17182.0
+Ridge Regression,0.8715,0.841,0.1549,27879.0,18163.0
+Linear Regression,0.8714,0.84,0.1549,27889.0,18266.0
