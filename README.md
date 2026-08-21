@@ -6,7 +6,7 @@ Exploratory data analysis and machine learning project predicting residential ho
 
 This project walks through a complete, small-scale analytics workflow: exploring a real dataset, engineering features from domain understanding, and comparing multiple regression models to predict `SalePrice`.
 
-**Best model: Gradient Boosting Regressor — R² = 0.898, MAE ≈ $16,155**
+**Best model: Gradient Boosting Regressor — R² = 0.898, MAE ≈ $16,158**
 
 ## 🔍 What’s inside
 
@@ -19,8 +19,8 @@ This project walks through a complete, small-scale analytics workflow: exploring
 
 |Model                |R² Score |CV R² (mean)|RMSE ($)|MAE ($)|
 |---------------------|---------|------------|--------|-------|
-|**Gradient Boosting**|**0.898**|0.889       |28,825  |16,155 |
-|Random Forest        |0.887    |0.869       |29,409  |17,182 |
+|**Gradient Boosting**|**0.898**|0.889       |28,826  |16,158 |
+|Random Forest        |0.887    |0.869       |29,341  |17,079 |
 |Ridge Regression     |0.872    |0.841       |27,879  |18,163 |
 |Linear Regression    |0.871    |0.840       |27,889  |18,266 |
 
