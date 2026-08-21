@@ -1,0 +1,2 @@
+Model,R2 Score,CV R2 (mean),RMSE (log),RMSE ($),MAE ($)
+Gradient Boosting,0.8977,0.889,0.1382,28826.0,16158.0
